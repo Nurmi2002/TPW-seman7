@@ -1,0 +1,81 @@
+nav a{
+	font-weight: 600;
+	padding-right: 10px;
+}
+
+nav a:hover{
+	color: red;
+}
+
+nav{
+	text-align: right;
+}
+
+.cont1{
+	display: flex;
+	justify-content: center;
+}
+
+.cont1 p{
+	color: white;
+}
+
+
+.imagenes{
+	height: 150px;
+	display: flex;
+	justify-items: center;
+	justify-content: center;
+	margin-left: 100px; 
+}
+
+.cont2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.columna{
+	padding: 20px;
+	margin: 0 5px;
+}
+
+.cont4{
+	display: flex;
+	justify-content: center;
+}
+.cont4 p{
+	color: white;
+}
+
+.cont4 h3{
+	color: red;
+	font-family: Courier New;
+}
+
+.parra1{
+	display: flex;
+	justify-content: center;
+}
+
+.parra2{
+	display: flex;
+}
+
+.parra3{
+	display: flex;
+}
+
+.cont3{
+	display: flex;
+	justify-content: center;
+}
+
+.a{
+	text-decoration: underline;
+}
+
+.cont3 p{
+	font-family: Arial Black;
+	color: white;
+}
